@@ -1,0 +1,39 @@
+[submodule "application-serialisation-singleton-factory"]
+	path = application-serialisation-singleton-factory
+	url = git@github.com:Olakouns/application-serialisation-singleton-factory.git
+[submodule "application12"]
+	path = application12
+	url = git@github.com:Olakouns/application12.git
+[submodule "application14-Observer"]
+	path = application14-Observer
+	url = git@github.com:Olakouns/application14-Observer.git
+[submodule "application13"]
+	path = application13
+	url = git@github.com:Olakouns/application13.git
+[submodule "application11"]
+	path = application11
+	url = git@github.com:Olakouns/application11.git
+[submodule "application10"]
+	path = application10
+	url = git@github.com:Olakouns/application10.git
+[submodule "application9"]
+	path = application9
+	url = git@github.com:Olakouns/application9.git
+[submodule "application8"]
+	path = application8
+	url = git@github.com:Olakouns/application8.git
+[submodule "application7"]
+	path = application7
+	url = git@github.com:Olakouns/application7.git
+[submodule "application4"]
+	path = application4
+	url = git@github.com:Olakouns/application4.git
+[submodule "application3"]
+	path = application3
+	url = git@github.com:Olakouns/application3.git
+[submodule "application2"]
+	path = application2
+	url = git@github.com:Olakouns/application2.git
+[submodule "application1"]
+	path = application1
+	url = git@github.com:Olakouns/application1.git
